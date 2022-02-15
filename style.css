@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ------------------------------------ */
+/* HEADER */
+
+.header {
+    border: 1 px solid red;
+}
+
+.img-logo {
+    max-width: 50px;
+    max-height: 50px;
+}
