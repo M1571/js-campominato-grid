@@ -12,10 +12,25 @@ body {
 /* HEADER */
 
 .header {
-    border: 1 px solid red;
+    border: 5px solid red;
 }
 
 .img-logo {
     max-width: 50px;
     max-height: 50px;
+}
+
+/* ------------------------------------ */
+/* MAIN */
+
+.main {
+    border: 5px solid darkcyan;
+    height: 80vh;
+}
+
+/* ------------------------------------ */
+/* FOOTER */
+
+.footer {
+    border: 5px solid darkviolet;
 }
