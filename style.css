@@ -77,6 +77,10 @@ body {
 
 .main {
     background: linear-gradient(45deg, #883ADB, #5454D4);
+    /* background-color: #7EFFD4; */
+    /* background-image: repeating-linear-gradient(45deg, transparent, transparent 20px, #ACF3DB 20px, #7BFAD0 23px); */
+    border-radius: 15px;
+    margin: 0 2vw;
     height: 80vh;
 }
 
